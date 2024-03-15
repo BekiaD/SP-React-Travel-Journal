@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.nav--div {
+  background-color: #F55A5A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: 55px;
+
+}
+
+.world--icon {
+  width: 24px;
+}
+
+h1 {
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+}
